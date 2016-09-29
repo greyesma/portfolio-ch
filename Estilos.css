@@ -1,0 +1,58 @@
+/* Selector por tag */
+
+p {
+	color: red;
+}
+
+/* Selector múltiple */
+
+h1 {
+	color: blue;
+	text-align:center;
+	font-family: arial;
+	font-size:30pt;
+}
+
+/* Selector por cascada */
+
+article p {
+	color: purple;
+}
+/* Selector por ID */
+
+#firma {
+	color: pink;
+}
+body {
+	color:red;
+}
+
+/* Selector por clase */
+
+.article {
+	background: gray;
+}
+aside {
+	background:green;
+}
+aside p {
+	color:white;
+}
+.destacado {
+	color:red;
+}
+p.negrita {
+	font-weight: bold;
+	font-family: arial, tahoma, sans-serif;
+	border-color: #000000;
+	border-width: 3px;
+	border-style: solid;
+}
+
+ul {
+	list-style-type: armenian;
+	list-style-image: url(check.png);
+} 
+ol {
+	list-style-type: lower-roman;
+} 

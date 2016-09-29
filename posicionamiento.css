@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	background-color: #ccc;
+} 
+
+#sidebar {
+	width: 30%;
+
+}
+
+#menu {
+	width: 30%;
+	background-color: steelblue;
+	display: inline;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+#contenido {
+	width: 70%;
+	background-color: pink;
+}

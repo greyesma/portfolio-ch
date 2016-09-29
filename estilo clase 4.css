@@ -1,0 +1,45 @@
+* {
+	margin: 0px;
+	padding:0px;
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+#caja-roja {
+	margin: 10px 20px 30px 40px;
+	padding:10px;
+	border:2px solid green;
+	border-width: 10px;
+	background-color:red;
+	/*
+	width: 400px;
+	height: 400px;
+	*/
+	/*
+	min-width: 200px;
+	min-height: 200px;
+	*/
+	max-width: 400px;
+	max-height: 200px;
+}
+#caja-verde {
+	background-color: green;
+	margin-top: 50px;
+	margin-left: 50%;
+	width: 50%;
+}
+
+ul {
+	margin: 0;
+	padding: 10px;
+	background-color: orange;
+}
+
+li {
+	margin:10px 0px;
+	background-color:#ccc;
+	padding: 5px;
+}
